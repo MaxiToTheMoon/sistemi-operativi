@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "utilities.h": "c",
+        "sem.h": "c",
+        "unistd.h": "c"
+    },
+    "git.ignoreLimitWarning": true
+}
